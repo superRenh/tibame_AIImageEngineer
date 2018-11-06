@@ -6,7 +6,7 @@
 <ol>
   <li>Week1~Week2:</li>
   <ul>
-    <li><a href="tibame_AIImageEngineer/homework1_probability .ipynb">Homework1</a></li>
+    <li><a href="https://github.com/superRenh/tibame_AIImageEngineer/blob/master/homework1_probability%20.ipynb">Homework1</a></li>
     <li>Homework2</li>
   
   </ul>
