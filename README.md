@@ -4,9 +4,9 @@
 紀錄並彙整參與資策會AI影像技術應用工程師培訓的作業、專題成果。
 #### 進度彙整
 <ol>
-  <li>Week1~Week2:</li>
+  <li>Week1~Week2:Python基礎/Python資料庫/Python網路爬蟲</li>
   <ul>
-    <li><a href="https://github.com/superRenh/tibame_AIImageEngineer/blob/master/homework1_probability%20.ipynb">Homework1</a></li>
+    <li><a href="https://github.com/superRenh/tibame_AIImageEngineer/blob/master/homework1_probability%20.ipynb">Homework1:機率分布-生女兒的機率</a></li>
     <li>Homework2</li>
   
   </ul>
