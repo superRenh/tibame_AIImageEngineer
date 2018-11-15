@@ -18,7 +18,8 @@
 
 <ul>
   <li>課程日期：107/10/27(六) – 108/02/23(六) 每週六日上課</li>
-<
+  <li>上課時間：上午08:30-12:30；下午13:30-17:30<
+</ul>
 <img src='https://s3-ap-northeast-1.amazonaws.com/marketing-prd/goodjob/ai-engineer/images/six-skills.svg' width="80%" height="80%" style="float.center">
 
 
