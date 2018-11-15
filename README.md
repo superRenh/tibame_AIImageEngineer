@@ -7,7 +7,7 @@
   <li>Week1~Week2:Python基礎/Python資料庫/Python網路爬蟲</li>
   <ul>
     <li><a href="https://github.com/superRenh/tibame_AIImageEngineer/blob/master/homework1_probability%20.ipynb" target="_blank">Homework1:機率分布-生女兒的機率</a></li>
-    <li>Homework2:Yahoo電影爬蟲</li>
+    <li><a href="https://github.com/superRenh/tibame_AIImageEngineer/blob/master/homework2_yahoo_movie_crawler.ipynb">Homework2:Yahoo電影爬蟲</a></li>
   
   </ul>
   
