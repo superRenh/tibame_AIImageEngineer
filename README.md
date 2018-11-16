@@ -11,7 +11,7 @@
     <li><a href="https://github.com/superRenh/tibame_AIImageEngineer/blob/master/homework2_yahoo_movie_crawler.ipynb">Homework2:Yahoo電影爬蟲</a></li>
     抓取Yahoo!電影"上映中"頁籤中所有的電影https://movies.yahoo.com.tw/movie_intheaters.html 。爬取電影名稱(中)、電影名稱(英)、期待度、滿意度、
     類型、演員、導演、官方連結、劇情介紹，並儲存為dictionary。
-    <img src="https://github.com/superRenh/tibame_AIImageEngineer/blob/master/images/yahoo_movie_result.png></img>
+    <img src="https://github.com/superRenh/tibame_AIImageEngineer/blob/master/images/yahoo_movie_result.png" width="80%" height="80%" style="float.center">
   
   </ul>
   
