@@ -8,7 +8,7 @@
   <ul>
     <li><a href="https://github.com/superRenh/tibame_AIImageEngineer/blob/master/homework1_probability%20.ipynb" target="_blank">Homework1:機率分布-生女兒的機率</a></li>
     <li><a href="https://github.com/superRenh/tibame_AIImageEngineer/blob/master/homework2_yahoo_movie_crawler.ipynb">Homework2:Yahoo電影爬蟲</a></li>
-    抓取Yahoo!電影
+    抓取Yahoo!電影"上映中"頁籤中所有的電影https://movies.yahoo.com.tw/movie_intheaters.html。
   
   </ul>
   
