@@ -7,6 +7,7 @@
   <li>Week1~Week2:Python基礎/Python資料庫/Python網路爬蟲</li>
   <ul>
     <li><a href="https://github.com/superRenh/tibame_AIImageEngineer/blob/master/homework1_probability%20.ipynb" target="_blank">Homework1:機率分布-生女兒的機率</a></li>
+    一對夫婦計劃生孩子生到有女兒才停,或生了三個就停止。他們會擁有女兒的機率是多少?
     <li><a href="https://github.com/superRenh/tibame_AIImageEngineer/blob/master/homework2_yahoo_movie_crawler.ipynb">Homework2:Yahoo電影爬蟲</a></li>
     抓取Yahoo!電影"上映中"頁籤中所有的電影https://movies.yahoo.com.tw/movie_intheaters.html 。爬取電影名稱(中)、電影名稱(英)、期待度、滿意度、
     類型、演員、導演、官方連結、劇情介紹，並儲存為dictionary。
